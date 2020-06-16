@@ -5,8 +5,14 @@ This repo is created with the intent to help document versioning of edits for th
 
 To grab this levelset:
 * Navigate to the desired version folder.
-* "Clone or Download" in that section to create a zip.
-* Follow instructions in the provided !README.txt
+* Select the zipfile, or copy all files to an empty folder.
+* Read !README.TXT to learn how to install.
+
+Or, you can do the following.
+* "Clone or Download" to create a zip of all versions.
+* Unpack into an empty folder.
+* Navigate to the desired version folder.
+* Read !README.TXT to learn how to install.
 
 This levelset requires Supaplex. You can get it for free. I prefer you to use the DOSBox SpeedFix version, Megaplex or OpenSupaplex to play this levelset. I do not support commercial or "freemium" ports. Don't ask how to include. Discussion of inclusion will be erased. Those ports are scams to me. They serve no beneficial advantages compared to the above free options. None. Nada.
 
