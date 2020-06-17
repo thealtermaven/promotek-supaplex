@@ -3,7 +3,9 @@
 
 This repo is created with the intent to help document versioning of edits for the levelset, including adding credits of individuals whom assisted in the edits of the levelset for the purpose of fixing outstanding bugs.
 
-To grab this levelset:
+*This repo also includes an archival version of "The Supaplex Incident", or Levelset 10. This is the 2003 version with '05 third-party edits to make some levels solvable. It is noticably more difficult than this set -- attempt after you enjoy this one.*
+
+# To grab this levelset bundle:
 * Use "Clone/Download" and elect to save as zip.
 * Extract contents in an empty folder.
 * Navigate to the desired version (newer versions have edits/fixes).
