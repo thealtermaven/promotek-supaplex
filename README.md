@@ -7,6 +7,9 @@ This is a levelset completed in 2003. The version in the repo is the 2005 third-
 # promotek-incident
 "The Promotek Incident", a Supaplex levelset, released 16 June 2020. 111 levels, 1 author. First release under the "Alchemystics Design" umbrella.
 
+# return-to-promotek
+"Return to Promotek" or "The Promotek Aftermath", a Supaplex levelset, released 10 September 2020. 111 levels, 1 author. Second release under the "Alchemystics Design" umbrella, it is a more challenging "sequel" to "The Promotek Incident".
+
 # To obtain this repo:
 * Select "Code", then "Clone/Download" and elect to save as zip.
 # To install:
