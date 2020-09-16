@@ -11,8 +11,16 @@ This is a levelset completed in 2003. The version in the repo is the 2005 third-
 The Promotek Aftermath, or officially known as "Return to Promotek", is a Supaplex levelset, released 10 September 2020. 111 levels, 1 author. Second release under the "Alchemystics Design" umbrella, it is a more challenging "sequel" to "The Promotek Incident".
 
 # To obtain this repo:
-* Select "Code", then "Clone/Download" and elect to save as zip.
+* Select "Code", then "Clone/Download" and elect to save as zip. Both standard and R'n'D versions will be bundled in the ZIP. R'n'D versions have "rnd" suffixed.
+
 # To install:
+If you are using Rocks'n'Diamonds, extract all "rnd" folders into your Documents folder:
+* Linux - *~rocksndiamonds/levels*
+* Mac - *Rocks’n’Diamonds/levels* in Documents
+* Win - *Rocks’n’Diamonds/levels* in Documents
+* Android - *Android/data/org.artsoft.rocksndiamonds/files/levels* in Device storage
+
+Otherwise, peruse these instructions:
 * *A copy of DOSBox Supaplex/Speedfix, OpenSupaplex or Megaplex is required. These are free.*
 * Extract contents in an empty folder.
 * Navigate to the desired version (newer versions have edits/fixes).
