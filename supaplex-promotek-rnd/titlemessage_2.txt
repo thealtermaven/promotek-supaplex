@@ -1,0 +1,12 @@
+For the full information and backstory of
+this excellent level set, please refer to
+!README.txt provided in the levelset dir!
+
+If you're stuck at any point and just need
+a general nudge, peruse the supplied hints
+located in HINTFILE.TXT!
+
+Happy solving, tester!
+
+:Creativity is chemistry:
+   ALCHEMYSTICS DESIGN
