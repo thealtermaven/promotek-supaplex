@@ -16,3 +16,9 @@ Level 062 "Left with this mess?", a problem in the shuffle
 created an instance which left 3 infotrons unobtainable, thus
 preventing the level to be solved. The problematic chips which
 caused this issue were removed. (spotter: Grom PE)
+
+Level 071 "Grid Work" had a typo in the infotron requirements.
+It now correctly has a requirement of 41 infotrons.
+
+Level 074 "Backdoor Access" had an incorrectly-adjusted pipe
+preventing access to the exit. It is fixed. (spotter: Grom PE)
