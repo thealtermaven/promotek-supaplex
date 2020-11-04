@@ -4,6 +4,9 @@ Level 009 "Recury", edge case incompletion due to redesign of
 how disks are shifted, one orange disk was incorrectly placed.
 This is fixed. (spotter: Grom PE)
 
+Level 026 "Code Black", there is no exit. This was rectified.
+(spotter: Grom PE)
+
 Level 039 "Part Maker", a yellow disk was missing in the lower
 right corner of the sokoban section, causing the fuse to be
 incompletable. A seventh yellow disk was added and thus the
