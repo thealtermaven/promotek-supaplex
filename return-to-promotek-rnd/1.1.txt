@@ -1,0 +1,24 @@
+The following issues have been fixed:
+
+Level 009 "Recury", edge case incompletion due to redesign of
+how disks are shifted, one orange disk was incorrectly placed.
+This is fixed. (spotter: Grom PE)
+
+Level 026 "Code Black", there is no exit. This was rectified.
+(spotter: Grom PE)
+
+Level 039 "Part Maker", a yellow disk was missing in the lower
+right corner of the sokoban section, causing the fuse to be
+incompletable. A seventh yellow disk was added and thus the
+level is now solvable. (spotter: Grom PE)
+
+Level 062 "Left with this mess?", a problem in the shuffle
+created an instance which left 3 infotrons unobtainable, thus
+preventing the level to be solved. The problematic chips which
+caused this issue were removed. (spotter: Grom PE)
+
+Level 071 "Grid Work" had a typo in the infotron requirements.
+It now correctly has a requirement of 41 infotrons.
+
+Level 074 "Backdoor Access" had an incorrectly-adjusted pipe
+preventing access to the exit. It is fixed. (spotter: Grom PE)
