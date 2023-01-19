@@ -47,3 +47,6 @@ Levelset 10 is [here](https://www.supaplex.online/play/?levelset=levels.d10&leve
 * * For better experience (and to play other levelsets, including my 2003 edition Levelset 10!) request a free account with the site's author.
 
 Good luck, bug hunter.
+
+# Disclosure
+These levelsets are free for use in bundling as part of non-commercial distributions, provided you at least track me down for permission first. **You do not have permission to include these levelsets, or portions of these levelsets, in commercial distributions or free "packs" of commercial ports.**
