@@ -1,8 +1,8 @@
 # Preface
-This repo has archival versions of "The Supaplex Incident", a.k.a. Levelset 10 2.0; as well as "The Promotek Incident" 1.0 released in 16 June 2020 and other related levelsets.
+This repo has archival versions of "The Supaplex Incident", a.k.a. Levelset 10 2.0; as well as "The Promotek Incident" 1.0 released in 16 June 2020 and other related levelsets. 
 
 # supaplex-incident
-This is a levelset completed in 2003. The version in the repo is the 2005 third-party edit to make two levels solveable. This release is in the repo for archival purposes and it is more challenging than the Promotek Incident as well as other releases.
+This is a levelset completed in 2003. The version in the repo is the 2005 third-party edit to make two levels solveable. This release is in the repo for archival purposes and it is more challenging than the Promotek Incident as well as other releases. **If your copy of levels.d10 is dated 2005, you already have the latest version. The version here is for archival purposes and has no changes.**
 
 # promotek-incident
 "The Promotek Incident", a Supaplex levelset, released 16 June 2020. 111 levels, 1 author. First release under the "Alchemystics Design" umbrella.
