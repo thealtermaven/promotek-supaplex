@@ -50,3 +50,6 @@ Good luck, bug hunter.
 
 # Disclosure
 These levelsets are free for use in bundling as part of non-commercial distributions, provided you at least track me down for permission first. **You do not have permission to include these levelsets, or portions of these levelsets, in commercial distributions or free "packs" of commercial ports.**
+
+# Want more Supaplex?
+MF366 is creating a super-archive of all Supaplex levels and tools. You can find that [here!](https://github.com/MF366-Coding/The-Ultimate-Supaplex-Archive)
